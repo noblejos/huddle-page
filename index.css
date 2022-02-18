@@ -30,7 +30,7 @@ header img {
 }
 
 .text h1 {
-  color: rgb(255, 255, 255, 0.9);
+  color: rgb(255, 255, 255);
   font-family: "Poppins", sans-serif;
   font-size: 1.3rem;
 }
@@ -44,7 +44,7 @@ header img {
 }
 .text a {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255);
   display: block;
   margin: 1em auto 3em auto;
   padding: 0.7em;
